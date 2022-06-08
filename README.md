@@ -1,5 +1,5 @@
-# Title
-Description
+# Testing and TDD
+In this project I write the test for several functions and used the TDD with Jest and JavaScript.
 
 ## 🛠️ Built With
 
