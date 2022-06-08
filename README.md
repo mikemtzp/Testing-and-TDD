@@ -3,12 +3,9 @@ In this project I write the test for several functions and used the TDD with Jes
 
 ## 🛠️ Built With
 
-- HTML, CSS & Javascript
-- Linters: Lighthouse, Webhint, Stylelint & ESlint
+- Javascript
 - Webpack
-
-## 💻 Live demo
-- [Live Demo Link](https://mikemtzp.github.io/name/)
+- Jest
 
 ## 🧮 Prerequisites
 
@@ -18,14 +15,14 @@ Follow these steps on your console to properly clone this repository on your des
 
 ```
 $ cd desktop
-$ git clone https://github.com/mikemtzp/name.git
-$ cd my-portfolio
-$ open index.html file
+$ git clone https://github.com/mikemtzp/Testing-and-TDD.git
+$ cd name
 ```
 
 ### Install
 
 - [Webpack](https://webpack.js.org/guides/getting-started/)
+- [Jest](https://jestjs.io/docs/getting-started)
 
 ## 👤 Authors
 
@@ -38,7 +35,7 @@ $ open index.html file
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/mikemtzp/name/issues).
+Feel free to check the [issues page](https://github.com/mikemtzp/Testing-and-TDD/issues).
 
 ## ⭐️ Show your support
 
